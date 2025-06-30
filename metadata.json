@@ -1,0 +1,5 @@
+{
+  "name": "Business Conversational Agent",
+  "description": "An interactive AI agent that answers business questions by analyzing data directly from Google Sheets via URL.",
+  "requestFramePermissions": []
+}
